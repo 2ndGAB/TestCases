@@ -1,7 +1,7 @@
 <?php
 namespace App\Controller\Admin;
 
-class TextscasesController extends AppController {
+class TestcasesController extends AppController {
 
     /* add comment */
 }
